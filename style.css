@@ -1,0 +1,26 @@
+body{
+    background-color: deepskyblue;
+}
+
+h3{
+    background-color: azure;
+    color: black;
+    font-size: 40px;
+}
+
+.name_of-objects{
+
+    color: orange;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+button{
+    font-size: 25px;
+}
